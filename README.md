@@ -1,5 +1,5 @@
 
-# – AI Voice Assistant Radio App
+# AI Voice Assistant Radio App
 
 ## Overview
 
