@@ -44,6 +44,4 @@ From logging in with secure credentials to controlling playback with just your v
 For questions, collaborations, or project inquiries:
 
 **Anila Salman**  
-Email: your.email@example.com  
-LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-GitHub: [Your GitHub Profile](https://github.com/yourusername)
+Email: aneylasalman85@gmail.com
