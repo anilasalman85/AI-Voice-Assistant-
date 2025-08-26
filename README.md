@@ -3,9 +3,9 @@
 
 ## Overview
 
-Welcome to **Harmonic Hub Plus**, your go-to music streaming app designed to make listening smarter and more personalized.  
+Welcome to **AI Voice Assistant Radio App**, your go-to music streaming app designed to make listening smarter and more personalized.  
 Built with Flutter and powered by Firebase, this app offers you a secure, seamless, and AI-driven musical experience.  
-From logging in with secure credentials to controlling playback with just your voice, Harmonic Hub Plus ensures that music is always at your fingertips.
+From logging in with secure credentials to controlling playback with just your voice, AI Voice Assistant Radio AppAI Voice Assistant Radio Appensures that music is always at your fingertips.
 
 ---
 
